@@ -1,4 +1,4 @@
-movieApp
+The Movie Trail
 ========
 
-Robyn and Jess's movieApp (by Jessica Duarte and Robyn Larsen)
+Jess's Movie App
